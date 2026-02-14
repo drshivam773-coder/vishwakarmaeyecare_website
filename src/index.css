@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.whitee{
+  background-color: rgba(255, 255, 255, 0.269);
+}
+
+.text{
+  font-family: cursive;
+}
+
+html {
+  scroll-behavior: smooth;
+}
